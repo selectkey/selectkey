@@ -12,7 +12,7 @@ Desenvolvedor Front-End em formação | Focado, organizado e sempre evoluindo.<b
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selectkey&show_icons=true&theme=darcula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cleitonbarretopereira&show_icons=true&theme=darcula" />
 </p>
 
 <div style=display: inline_block"><br>
