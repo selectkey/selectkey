@@ -12,10 +12,6 @@ Desenvolvedor Front-End em formação | Focado, organizado e sempre evoluindo.<b
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleitonbarretopereira&show_icons=true&theme=darcula" />
-</p>
-
 <div style=display: inline_block"><br>
 <img align="center" width="50" height="50" alt="HTML5-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="center" width="50" height="50" alt="CSS3-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
