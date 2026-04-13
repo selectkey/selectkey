@@ -8,7 +8,7 @@ Desenvolvedor Front-End em formação | Focado, organizado e sempre evoluindo.<b
 - CSS
 - JavaScript
 - Git & GitHub
-- -Python
+- Python
 
 ---
 
